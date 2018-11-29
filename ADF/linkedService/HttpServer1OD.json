@@ -1,0 +1,13 @@
+{
+	"name": "HttpServer1OD",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"description": "Oljedir",
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://hotell.difi.no/api/json/npd/licence/licensees?",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
