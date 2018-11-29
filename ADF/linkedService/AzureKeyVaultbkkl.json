@@ -1,0 +1,9 @@
+{
+	"name": "AzureKeyVaultbkkl",
+	"properties": {
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "https://kvbkkldev.vault.azure.net/"
+		}
+	}
+}
