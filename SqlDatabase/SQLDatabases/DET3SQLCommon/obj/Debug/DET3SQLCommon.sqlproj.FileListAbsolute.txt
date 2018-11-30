@@ -1,0 +1,6 @@
+C:\Users\bkkl\Source\Repos\det3\SqlDatabase\SQLDatabases\DET3SQLCommon\bin\Debug\DET3SQLCommon.dacpac
+C:\Users\bkkl\Source\Repos\det3\SqlDatabase\SQLDatabases\DET3SQLCommon\bin\Debug\DET3SQLCommon.dll
+C:\Users\bkkl\Source\Repos\det3\SqlDatabase\SQLDatabases\DET3SQLCommon\bin\Debug\DET3SQLCommon.pdb
+C:\Users\bkkl\Source\Repos\det3\SqlDatabase\SQLDatabases\DET3SQLCommon\obj\Debug\DET3SQLCommon.sqlprojAssemblyReference.cache
+C:\Users\bkkl\Source\Repos\det3\SqlDatabase\SQLDatabases\DET3SQLCommon\obj\Debug\DET3SQLCommon.dll
+C:\Users\bkkl\Source\Repos\det3\SqlDatabase\SQLDatabases\DET3SQLCommon\obj\Debug\DET3SQLCommon.pdb

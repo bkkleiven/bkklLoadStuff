@@ -1,0 +1,13 @@
+30.11.2018 12:26:15	This log contains information about the import operation of the script 'SQLQuery2.sql' into project 'DET3SQLCommon' on computer 'LT-924237' by user'BKKL.
+30.11.2018 12:26:15	Started importing file: C:\Users\bkkl\Documents\SQL Server Management Studio\SQLQuery2.sql 
+30.11.2018 12:26:15	File name C:\Users\bkkl\Documents\SQL Server Management Studio\SQLQuery2.sql (size: 7985)
+30.11.2018 12:26:15	Parsing import script
+30.11.2018 12:26:15	Total number of batches in script: 3
+30.11.2018 12:26:15	Total number of statements in script: 1
+30.11.2018 12:26:15	The script was successfully imported into the project.
+30.11.2018 12:26:15	Analyzing schema objects...
+30.11.2018 12:26:15	Scanning project for duplicate elements
+30.11.2018 12:26:15	Finished duplicate element processing
+30.11.2018 12:26:15	In the script that you provided to the import operation, one or more statements were not fully understood. These statements were moved to the ScriptsIgnoredOnImport.sql file. Review the file contents for additional information.
+30.11.2018 12:26:15	A summary of the import was saved to the following location: C:\Users\bkkl\Source\Repos\det3\SqlDatabase\SQLDatabases\DET3SQLCommon\Import Script Logs\SQLQuery2_sql_20181130112615.log
+30.11.2018 12:26:15	Click Finish to continue...

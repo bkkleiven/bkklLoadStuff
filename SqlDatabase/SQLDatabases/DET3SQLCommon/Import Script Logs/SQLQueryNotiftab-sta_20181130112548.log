@@ -1,0 +1,13 @@
+30.11.2018 12:25:48	This log contains information about the import operation of the script 'SQLQueryNotiftab-stage.sql' into project 'DET3SQLCommon' on computer 'LT-924237' by user'BKKL.
+30.11.2018 12:25:48	Started importing file: C:\Users\bkkl\Documents\SQL Server Management Studio\SQLQueryNotiftab-stage.sql 
+30.11.2018 12:25:48	File name C:\Users\bkkl\Documents\SQL Server Management Studio\SQLQueryNotiftab-stage.sql (size: 2892)
+30.11.2018 12:25:48	Parsing import script
+30.11.2018 12:25:48	Total number of batches in script: 3
+30.11.2018 12:25:48	Total number of statements in script: 1
+30.11.2018 12:25:48	The script was successfully imported into the project.
+30.11.2018 12:25:48	Analyzing schema objects...
+30.11.2018 12:25:48	Scanning project for duplicate elements
+30.11.2018 12:25:48	Finished duplicate element processing
+30.11.2018 12:25:48	In the script that you provided to the import operation, one or more statements were not fully understood. These statements were moved to the ScriptsIgnoredOnImport.sql file. Review the file contents for additional information.
+30.11.2018 12:25:48	A summary of the import was saved to the following location: C:\Users\bkkl\Source\Repos\det3\SqlDatabase\SQLDatabases\DET3SQLCommon\Import Script Logs\SQLQueryNotiftab-sta_20181130112548.log
+30.11.2018 12:25:48	Click Finish to continue...
