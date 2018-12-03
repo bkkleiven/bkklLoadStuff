@@ -1,0 +1,12 @@
+{
+	"name": "OljeDirektoratet",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "http://hotell.difi.no/api/csv/npd/licence/overview?",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
