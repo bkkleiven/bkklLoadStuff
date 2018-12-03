@@ -1,10 +1,6 @@
 {
 	"name": "OljedirektRaw",
 	"properties": {
-		"linkedServiceName": {
-			"referenceName": "AzureDataLakeStore1",
-			"type": "LinkedServiceReference"
-		},
 		"type": "AzureDataLakeStoreFile",
 		"typeProperties": {
 			"format": {
@@ -16,7 +12,7 @@
 				"skipLineCount": 0,
 				"firstRowAsHeader": false
 			},
-			"fileName": "Operators",
+			"fileName": "",
 			"folderPath": "raw/oljedir"
 		}
 	}
